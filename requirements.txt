@@ -1,4 +1,7 @@
 streamlit
 reportlab
-# any other packages you're using
+langchain
+openai
+# any other packages you need
+
 
