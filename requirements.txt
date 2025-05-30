@@ -1,1 +1,4 @@
+streamlit
+reportlab
+# any other packages you're using
 
