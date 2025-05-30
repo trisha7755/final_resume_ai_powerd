@@ -13,7 +13,7 @@ import requests
 import google.generativeai as genai
 
 # Configure the Gemini API key
-genai.configure(api_key=os.getenv(genai_api_key))
+genai.configure(api_key=os.getenv("GENAI_API_KEY"))  
 
 def render_markdown_text(text):
     text = re.sub(r"^\s*-\s*", "", text, flags=re.MULTILINE)
