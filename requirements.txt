@@ -2,6 +2,7 @@ streamlit
 reportlab
 langchain
 openai
+langchain-community
 # any other packages you need
 
 
