@@ -3,6 +3,7 @@ reportlab
 langchain
 openai
 langchain-community
+google-generativeai
 # any other packages you need
 
 
